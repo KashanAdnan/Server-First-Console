@@ -1,0 +1,1 @@
+console.log("This is ES6 Running in Terminal")
